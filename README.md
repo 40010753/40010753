@@ -23,4 +23,3 @@
     -  ARM controller programming
     -  RTOS, SPI, I2C, UART
     -  Sensor integration
-    -  Staying fit without excercising
